@@ -1,0 +1,27 @@
+.neumorphic {
+
+background: hsl(72, 22%, 95%); border-radius: 20px;
+
+box-shadow: 10px 10px 20px #a3b1c6, -10px -10px 20px #ffffff;
+}
+
+.neumorphic-inset {
+
+background: #e0e5ec; border-radius: 20px;
+
+box-shadow: 10px 10px 20px #a3b1c6, -10px -10px 20px #ffffff;
+}
+
+.neumorphic-card{
+
+display: flex;
+
+flex-direction: column;
+
+Justify-content: center;
+
+align-items: center; padding : 30px; width: 300px;
+
+text-align: center;
+
+}
